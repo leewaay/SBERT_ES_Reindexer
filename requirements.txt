@@ -1,0 +1,4 @@
+elasticsearch
+sentence-transformers
+numpy
+argparse
